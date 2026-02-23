@@ -1,5 +1,3 @@
-# The Research Diagram Playbook
-
 ---
 title: "The Research Diagram Playbook"
 subtitle: "A Complete Guide to UML Diagram Selection, Generation & Integration for Academic Publications"
